@@ -1,0 +1,1 @@
+The tiny red ball falls onto the tiny black platform, and the medium green ball lands on top of it. When landing it shoves the red ball into the left wall, allowing the green ball to roll to the right off of the tiny black platform and onto the purple floor.

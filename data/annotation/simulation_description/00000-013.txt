@@ -1,0 +1,1 @@
+All the balls fall and the green and blue balls collide with the ground and stop. The large red ball falls until it hits the small blue ball on its right side, pushing it to the left. It rolls left until colliding with the green ball and stopping. The large red ball rolls to the right and until stopping at the right edge.

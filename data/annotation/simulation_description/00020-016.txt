@@ -1,0 +1,1 @@
+The red ball rolls down, hits the green ball, and lands to the left of the floor black bar. The green ball falls down, gets hits by the red ball, and land at the bottom right on the purple bar. The gray bar falls straight down and lands on the purple bar.

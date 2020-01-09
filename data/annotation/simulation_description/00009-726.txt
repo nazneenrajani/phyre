@@ -1,0 +1,1 @@
+The ball falls on the green bars left side which forces the bar to tilt and fall off the platform. The green bar lands on the purple platform below.

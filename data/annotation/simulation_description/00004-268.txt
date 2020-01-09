@@ -1,0 +1,1 @@
+The red and green balls fall and land on the blue bar at the same time. Because they land equally, and on the ends, the  bar doesn't tip, but it does favor the red side slightly. The red ball rolls off to the left which causes the green ball to roll to the left as well.

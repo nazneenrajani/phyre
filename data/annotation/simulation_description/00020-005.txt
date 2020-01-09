@@ -1,0 +1,1 @@
+Both the green, gray and red balls begin to fall down. As the red ball falls, the green ball falls on top of it causing the green ball to jump over the small border line and jump over the gray ball to fall on the right side of the purple line.

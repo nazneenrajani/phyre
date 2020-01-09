@@ -1,0 +1,1 @@
+Red ball flies above green ball on the black bar. Once red ball touches green ball. Green ball is sliding to the left, and falls down on the purple bar.

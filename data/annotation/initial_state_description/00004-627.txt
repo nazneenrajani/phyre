@@ -1,0 +1,1 @@
+A green ball hovers at the center. Two bars are hovering with one at the center left and the other at the center far right. A black bar is covering the whole row at the center bottom. The red ball is on this black bar. A black ball is on this black bar. A blue bar is on the black ball.

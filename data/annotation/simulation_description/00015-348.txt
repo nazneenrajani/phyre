@@ -1,0 +1,1 @@
+Red ball is falling on to black bar. Push green ball to the right, it falls down to the purple bar.

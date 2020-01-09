@@ -1,0 +1,1 @@
+Red ball falling on to green ball on black bar. Once red ball touches green ball, it sliding to right touches purple bar.

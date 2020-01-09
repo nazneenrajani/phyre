@@ -1,0 +1,1 @@
+The green bar goes through the black bars' gap. It bounces off the red ball that went to the ground and rolls to the right corner on the purple bar. The red ball rolls to the left in the center.

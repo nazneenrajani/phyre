@@ -1,0 +1,1 @@
+The green ball falls down and the red rolls into the path. They collide and the green is pushed to the right and bounced off the vertical black divider below the gap. The green ball continues going right and lands on the purple platfrom.

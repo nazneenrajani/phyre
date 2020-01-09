@@ -1,0 +1,1 @@
+When the balls drop, the large red ball lands first and the blue ball bumps into it. The blue ball then rolls to the left, and continues rolling until it meets the green ball.

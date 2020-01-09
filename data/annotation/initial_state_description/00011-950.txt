@@ -1,0 +1,1 @@
+with a distance to the right wall slightly larger than the size of the green ball.

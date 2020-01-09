@@ -1,0 +1,1 @@
+Red ball falling on to the top of green bar. Red ball touches the top of green bar slightly before reaching the ground, while green bar falling to right touch the purple bar.

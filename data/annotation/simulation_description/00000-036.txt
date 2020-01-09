@@ -1,0 +1,1 @@
+All three balls drop, with the red ball landing first due to its proximity to the ground. The green ball collides next with the red ball because it was directly above it, and rolls to the right where it collides with the blue ball after it has fallen straight down.

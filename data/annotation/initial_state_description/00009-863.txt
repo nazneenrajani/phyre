@@ -1,0 +1,1 @@
+A black bar is in the center across the screen. A red ball is hovering under it in the center. A green bar is on a smaller black bar in the center bottom. A purple bar is on the ground and is the floor.

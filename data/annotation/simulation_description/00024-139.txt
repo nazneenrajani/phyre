@@ -1,0 +1,1 @@
+The grey and red balls collide at the entrance. The grey ball rolls back to the left while the red ball rolls leftwards down into the hole. The green ball falls and bounces off of the leftwards rolling grey ball, causing the green ball to roll right to the hole. It bounces off of the entrance but eventually falls through to land on the purple floor.

@@ -1,0 +1,1 @@
+The red ball drops down, hits the green bar, and left at the center of the smaller black bar. The green bar falls onto the purple bar at the left corner.

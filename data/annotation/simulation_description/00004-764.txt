@@ -1,0 +1,1 @@
+The black platform is in the bottom, with a distance to the right wall slightly larger than the size of the red ball. The green ball was placed in the black platform. There are three balls. The green fall to the bottom and the red ball bounce to the upper .

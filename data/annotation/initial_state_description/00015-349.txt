@@ -1,0 +1,1 @@
+The small platform is closer to the bottom than the top and on the left side, halfway between the left edge and the center. The blue ball is on the platform and the red ball is just above the the blue ball, but slightly to the left.

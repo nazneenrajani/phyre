@@ -1,0 +1,1 @@
+The black platform is in the middle, with a distance to the right wall slightly larger than the size of the red ball. and the black ball similar to the green ball size. The green ball was placed in the black platform. we need to place the three various color ball in the below of the purple color bar.

@@ -1,0 +1,1 @@
+Once the red ball fall on the black bar, the green bar fall on to the ground.

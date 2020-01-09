@@ -1,0 +1,1 @@
+The balls are dropped at the same time. The red ball makes contact with the platform. Immediately after, the blue ball lands on top of the red ball. At this contact, the red ball bounces slightly right and lands on the platform. The red ball rolls and falls off the right edge of the platform to fall on the ground below.

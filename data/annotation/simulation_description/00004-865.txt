@@ -1,0 +1,1 @@
+Red ball is in right side of black platform while green is in blue. When blue platform goes up green ball falls over red ball which cause red ball to hit the right side of the wall.The green ball finally hits the black perpendicular platform and settled before that platform.

@@ -1,0 +1,1 @@
+The red ball rolls down the ramp and collides with the grey bar. This knocks the green ball off balance and it falls to the right, pushing the grey bar to the left on top of the red ball.

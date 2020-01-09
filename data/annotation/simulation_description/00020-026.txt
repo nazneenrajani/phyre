@@ -1,0 +1,1 @@
+As the balls fall, the red ball rolls down the ramp to the right and collides with the green ball that is falling straight down. The red ball bumps the green ball to the right, through the opening in the wall. The green ball continues falling over the grey ball and lands in the purple goal area.

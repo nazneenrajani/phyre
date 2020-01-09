@@ -1,0 +1,1 @@
+Both green ball and red ball fall down. The red ball lands on the purple platform first, and the red ball falls onto the green ball. The green ball is then bounced to right, lands on the purple platform, and moves to the right. The green ball falls through the purple platform and finally lands on the purple bar at the bottom.

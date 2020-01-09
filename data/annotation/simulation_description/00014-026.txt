@@ -1,0 +1,1 @@
+Both green ball and red ball fall down. The green ball hits the red ball. The red ball hits the short black bar, moves towards left and lands on the purple bar while moving towards the left end. As a result of impact with the red ball, the green balls moves towards the right, hits the shorter black bar, bounces on the purple bar at the bottom and slides towards the right.

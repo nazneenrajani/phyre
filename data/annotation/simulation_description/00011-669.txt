@@ -1,0 +1,1 @@
+The balls land on the black ramp and roll down. The green ball is first to exit and land on the purple ramp, but when the red ball exits the black ramp it lands on the green ball, trapping both of them.

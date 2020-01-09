@@ -1,0 +1,1 @@
+The green ball falls at the same time the red ball slides down the diagonal line. They collide and the green ball is pushed through the hole in the wall. It falls over the grey ball and lands on the purple floor.

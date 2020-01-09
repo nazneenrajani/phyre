@@ -1,0 +1,1 @@
+The black platform is halfway between the top and bottom and off-centered a bit to the left. The blue bar is in a vertical position and positioned at the rightmost end of the platform. The red ball is at the top of the vertical bar, positioned on it's left side.

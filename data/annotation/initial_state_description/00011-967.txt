@@ -1,0 +1,1 @@
+A green ball hovers at the top left. A left wall black bar is going downwards. A red ball is hovering at the center top. A right wall purple bar is going downwards.

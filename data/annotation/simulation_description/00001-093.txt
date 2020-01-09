@@ -1,0 +1,1 @@
+Both red and green ball falls down the black platform where red ball falls over green ball which make both to move. Red ball move to the left side of the wall and green ball moves to the right side of the wall and hits the blue platform.

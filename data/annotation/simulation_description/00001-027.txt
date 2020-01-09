@@ -1,0 +1,1 @@
+At the same time both the green and red ball is fall down over the black platform. first the green ball lands on the black platform and it move towards right. After that red ball land on the black platform and it move towards the left side.

@@ -1,0 +1,1 @@
+The green ball falls straight down. At the same time, the red ball falls into the hole and pushes the grey ball a little to the right. The red ball clears the hole at the time the green ball is falling and bouncing against the grey ball to fall through the hole. Both the green and red balls roll to a stop on the purple floor and the grey never falls through.

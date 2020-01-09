@@ -1,0 +1,1 @@
+All the balls drop down. The red ball lands at the center. The blue ball lands at the right corner. The green ball lands on the red ball, rolls over to the right, and rolls to the left of the blue ball.

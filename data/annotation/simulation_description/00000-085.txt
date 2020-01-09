@@ -1,0 +1,1 @@
+The balls drop, and the tiny green ball bounces off of the large red ball. The green ball rolls to the right, and continues rolling until it touches the medium blue ball that fell straight down from its starting position.

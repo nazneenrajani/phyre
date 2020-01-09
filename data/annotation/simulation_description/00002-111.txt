@@ -1,0 +1,1 @@
+The balls drop with the red landing first then the green landing on the red. The small red touches only the right side of the green ball so the green ball is pushed to the left, touching the black bar, and then continuing to fall to the purple floor below.

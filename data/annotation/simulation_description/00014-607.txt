@@ -1,0 +1,1 @@
+The red ball falls, bumps the small bar, and rolls to the left. At the same time, the tiny green ball hits the red ball and falls the other way, to the right. The red ball falls into a cubby of sorts and the green ball rolls into the purple area after bouncing on the wall itself.

@@ -1,0 +1,1 @@
+The green ball falls and rolls down the sloped black platform. The red ball is just below it and left of green balls center. When the green ball hits it, it is thrown right and land on the black horizontal platform before rolling onto the purple area.

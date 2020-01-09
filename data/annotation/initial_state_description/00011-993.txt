@@ -1,0 +1,1 @@
+There are two platforms and two balls. Black platform is in the left side of the wall while Blue platform is in the right side of the wall which is shorter then black platform and placed below it.Red ball is placed over black platform and green ball is placed above the black platform.Red ball is bigger than green ball.

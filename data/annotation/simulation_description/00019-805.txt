@@ -1,0 +1,1 @@
+The red ball falls down first, followed by the grey ball, and they both are side by side on the platform. When the green ball falls, it lands in between them, pushing them to the side and resting on the purple platform.

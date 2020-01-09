@@ -1,0 +1,1 @@
+The purple platform is in the corner, with a distance to the right wall slightly smaller than the size of the green ball.The green ball is hovering over the purple platform.The red ball is placed center below the green ball.The purple bar is at the right side.

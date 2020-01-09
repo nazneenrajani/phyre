@@ -1,0 +1,1 @@
+When the balls are all dropped at the same time, the red ball hits the right platform and rolls to the right. The gray ball hits the platform on the left and rolls to the left. The blue ball falls straight through the space between the two platforms. It hits the ground below and stays where it falls.

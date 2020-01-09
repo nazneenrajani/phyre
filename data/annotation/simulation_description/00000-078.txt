@@ -1,0 +1,1 @@
+All the balls fall with the blue and green hitting the ground. The red ball above the smaller green lands on the green balls left side which pushes it to the right and makes it collide with the blue ball.

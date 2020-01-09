@@ -1,0 +1,1 @@
+The red ball is closest to the ground, so it lands first and the green ball bumps into it. This sends the red ball to the left and the green ball to the right, where it collides with the blue ball that has fallen straight down.

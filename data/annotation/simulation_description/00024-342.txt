@@ -1,0 +1,1 @@
+The red ball falls through the hole without issue, but the grey ball isn't centered enough. The green ball falls and pushes the grey ball out of the way, allowing it to fall through. Both the red and green land on the purple floor.

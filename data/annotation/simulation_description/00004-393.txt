@@ -1,0 +1,1 @@
+The green ball is dropped on to the red ball.  This causes the red ball to hit the blue bar which causes it to tilt to the left.  The green ball then bounces over to the bar and makes it tilt in the opposite direction.

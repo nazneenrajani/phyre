@@ -1,0 +1,1 @@
+There are two general types of collisions in physics: elastic and inelastic. An inelastic collisions occurs when two objects collide and do not bounce away from each other. ... In an elastic collision, both momentum and kinetic energy are conserved

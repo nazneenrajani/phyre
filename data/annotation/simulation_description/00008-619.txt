@@ -1,0 +1,1 @@
+The balls drop, with the larger red ball falling first and landing on the last step and rolling to the right. The smaller green ball follows, bouncing off the red ball and falling to the left into the hole between the stairs and landing in the purple cup.

@@ -1,0 +1,1 @@
+The red ball falls and bumps into the bar, knocking it over and to the left. It hits the left wall, slides until it's horizontal, and eventually falls down to touch the purple floor.

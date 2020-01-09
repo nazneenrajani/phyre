@@ -1,0 +1,1 @@
+The red ball is dropped and hits the right edge of the platform. It bounces to the ground below and after it lands in the right lower corner it rolls just a bt left. Meanwhile, the blue ball slowly rolls left and off the left edge of the platform to the ground beneath it.

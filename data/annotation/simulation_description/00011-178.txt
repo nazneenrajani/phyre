@@ -1,0 +1,1 @@
+The red ball lands on the ramp and begins to roll down, causing the green ball to land on top of the red and also move to the right. It lands on the purple ramp first and begins to roll back down to the left, but the large red ball reaches the end of the black ramp and lands on top of it, effectively trapping it and maintaining contact with the purple ramp.

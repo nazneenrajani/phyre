@@ -1,0 +1,1 @@
+Both balls roll down their respective ramps, but the green ball briefly lands on the red ball as it continues down the ramp, causing it to slow as it lands.

@@ -1,0 +1,1 @@
+The red ball falls onto the green balls right side, pushing the ball off the black playform, which lands on the purple platform.

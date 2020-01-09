@@ -1,0 +1,1 @@
+The green  ball falls and bumps the red ball, causing the red ball to roll to the left and the green ball to roll to the right. The green ball continues rolling until it hits the purple wall.

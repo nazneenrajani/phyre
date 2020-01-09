@@ -1,0 +1,1 @@
+The red ball never moves from it's position at the top left side of the blue vertical bar.

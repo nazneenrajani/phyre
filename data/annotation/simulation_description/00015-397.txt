@@ -1,0 +1,1 @@
+Red ball fly on to green ball on the black bar. Once red ball touch green ball it falls down to the purple bar and green ball also fall on to purple bar.

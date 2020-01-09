@@ -1,0 +1,1 @@
+Both balls are fall down from black platform to purple platform. The purple platform at the right side.The black platform at the left side.

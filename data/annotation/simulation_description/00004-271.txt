@@ -1,0 +1,1 @@
+The green ball drops down and lands on the blue bar at the center. The blue bar falls downwards to the left. The red ball gets hit by the green ball and moves to the left a little.

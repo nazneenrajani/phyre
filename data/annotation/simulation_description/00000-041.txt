@@ -1,0 +1,1 @@
+All the balls drop, with the green and blue colliding with the ground and stopping. The red collides onto the green balls left side, forcing it to the right and rolling along the ground until it collides with the blue ball, as which point they both roll to the right side and stop.

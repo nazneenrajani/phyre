@@ -1,0 +1,12 @@
+phyre train initial_state_description
+
+phyre dev initial_state_description
+
+phyre test initial_state_description
+
+phyre train simulation_description
+
+phyre dev simulation_description
+
+phyre test simulation_description
+

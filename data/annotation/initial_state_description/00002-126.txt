@@ -1,0 +1,1 @@
+A green ball hovering at the center top right. A red ball is hovering at the center right. A black wall bar is at the center right. A purple bar is the floor.

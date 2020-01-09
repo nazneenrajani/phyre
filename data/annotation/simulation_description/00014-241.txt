@@ -1,0 +1,1 @@
+The large red ball falls, hitting the split wall and rolling to the left. The small green ball falls on top of it, staying in place until it hits the black wall, and then rolling to the right. It continues rolling until it lands on the purple floor.

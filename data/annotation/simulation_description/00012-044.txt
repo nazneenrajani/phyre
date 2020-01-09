@@ -1,0 +1,1 @@
+The red ball lands on the bottom row of black balls. The green ball goes through the black balls, hits the red balls, and rolls to the left center on the purple bar.

@@ -1,0 +1,1 @@
+The red ball drops the platform less than a second before the blue ball falls. The blue ball lands on top of the red ball on the platform. It falls to the right side of the red ball onto the platform. Both balls stay put.

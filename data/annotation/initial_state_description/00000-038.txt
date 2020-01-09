@@ -1,0 +1,1 @@
+A green ball is about halfway vertically, and a third the horizontal distance from the left. Below the green ball is a larger red ball about 1.5 green ball widths below and half a widths length to the left of center. A smaller blue ball is 3/4 the horizontal distance from left on the same height as the green ball.

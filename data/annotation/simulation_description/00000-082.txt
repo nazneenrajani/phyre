@@ -1,0 +1,1 @@
+The balls drop. The red ball lands on the green ball and rolls at the left corner. The green ball rolls over to the blue ball which are both at the right on the floor.

@@ -1,0 +1,1 @@
+The green ball drops, but the red ball also rolls down its diagonal line and bumps it. This sends the green ball through the split opening, bouncing on the black bar, until it bounces over the grey ball and lands on the purple floor.

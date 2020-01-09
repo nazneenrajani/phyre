@@ -1,0 +1,1 @@
+The red ball drops and lands on the angled black platform forcing the red ball to the left which hits the vertical grey bar with the green ball on it. The force from the red ball tilts the grey bar enough to make the green ball fall to the right side and land on the floor below.

@@ -1,0 +1,1 @@
+When the red ball is dropped, it falls right alongside the left side of the vertical blue bar. When it hits the platform, the force knocks the blue bar to the ground below. The ball rolls slightly left, stopping before it reaches the edge.

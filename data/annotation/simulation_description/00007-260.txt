@@ -1,0 +1,1 @@
+The ball fall and when the green ball hits the reds right side it is thrown to the right and down the gap. The red stops in the gap, and the green lands on the black platform on the ground. It continues to rolls until on the purple platform.

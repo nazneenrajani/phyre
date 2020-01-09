@@ -1,0 +1,1 @@
+Both green ball and red ball fall down. The red ball lands on the black platform first, and the green ball falls onto the red ball.

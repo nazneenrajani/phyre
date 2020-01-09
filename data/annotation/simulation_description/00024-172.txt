@@ -1,0 +1,1 @@
+The grey and red balls shift slightly and end up on either side of the platforms with the grey on the left and the red on the right. The green ball falls between them and after bouncing off of both balls and pushing them side, falls directly through the opening between platforms to land on the purple goal.

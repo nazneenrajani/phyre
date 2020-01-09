@@ -1,0 +1,1 @@
+The red ball falls into the pen, but the green ball falls on top of it and rolls to the right. As it rolls, it bounces on the small bar but continues to the right, avoiding the pen and continuing until it reaches the purple area.

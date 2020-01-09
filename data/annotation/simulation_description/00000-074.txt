@@ -1,0 +1,1 @@
+The blue ball collides with the red ball once it hits bottom. The blue ball then rolls to the green ball, where they collide in which they both go left due to momentum. The red ball doesn't move.

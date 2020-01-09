@@ -1,0 +1,1 @@
+All the balls drop with the red hitting the ground first. The larger green ball hits the ground and stops and the blue lands on the red small ball with its right side. This causes it the go to the left and roll until it hits the green ball already on the ground.

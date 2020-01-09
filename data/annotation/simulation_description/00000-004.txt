@@ -1,0 +1,1 @@
+The balls drop down with the green and blue hitting the ground and stopping. The red falls onto the green on the left side propelling the green across the ground until it touches the blue ball.

@@ -1,0 +1,1 @@
+The red ball is dropped. When it hits the blue ball, it sends the blue ball rolling to the right until it rolls off the platform and to the ground. It stays in place when it lands. The red ball remains on the leftmost edge of the platform after it's dropped.

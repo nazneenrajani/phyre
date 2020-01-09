@@ -1,0 +1,1 @@
+A black bar goes from wall to wall at the center top. A red ball hovers under it at the center left. The green bar is right under the red ball and on a smaller black bar. This black bar is hovering at the center bottom. A purple bar is the floor.

@@ -1,0 +1,1 @@
+A green ball hovers at the top center. A red ball hovers at the center right. There are rows of black balls from the left at the center top and center bottom. There are rows of black balls from the right at the center and bottom. The purple bar is the floor.

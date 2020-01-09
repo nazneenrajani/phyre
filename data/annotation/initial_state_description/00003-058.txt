@@ -1,0 +1,1 @@
+The purple platform is in the right, and the green ball fall from black platform to the purple platform. The red ball falls from the purple platform to the bottom. The purple platform at the right side

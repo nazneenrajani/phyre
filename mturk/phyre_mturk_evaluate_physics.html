@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<script>
+
+// var isInPreviewMode = window.location.search.indexOf('assignmentId=ASSIGNMENT_ID_NOT_AVAILABLE') >= 0;
+var isInPreviewMode = false;
+function assertNotPreviewMode() {
+  if (!isInPreviewMode) {
+    return true;
+  }
+  alert('You must ACCEPT the HIT before you can submit the results.');
+  return false;
+}
+
+function getText(id) {
+  return document.getElementById(id).value.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+}
+function hasText(id) {
+  return getText(id) !== '';
+}
+
+function isAnyRadioSelected(name) {
+  var elements = document.getElementsByName(name);
+  for (var index = 0; index < elements.length; ++index) {
+    if (elements[index].checked) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function isNotValidAnswer() {
+  if (!hasText('initial_state_description')) {
+    return true;
+  }
+  if (!hasText('simulation_description')) {
+    return true;
+  }
+  return false;
+}
+
+function validateAnswers() {
+  // return true;  // In order to enable validation, delete this line.
+  if (isNotValidAnswer()) {
+    alert('Please describe the initial state and the simulation process.');
+  } else {
+    return true;
+  }
+  return false;
+}
+
+function displayTask() {
+  document.write('<h3> 1. Description </h3>');
+  document.write('${simulation_description}');
+
+  document.write('<h3> Your Answers </h3>');
+  document.write('<p>This description contains <br /><br />');
+
+  document.write('<p>Gravity<br> <label><input type="radio" name="gravity" value="1" />Yes</label><label><input type="radio" name="gravity" value="0" />No</label></p>');
+  document.write('<p>Which words describe Gravity? <br> <textarea id="gravity_words" name="gravity_words" rows="4" cols="80" onclick="assertNotPreviewMode();"></textarea></label></p>');
+
+  document.write('<p>Friction<br> <label><input type="radio" name="friction" value="1" />Yes</label><label><input type="radio" name="friction" value="0" />No</label></p>');
+  document.write('<p>Which words describe Friction? <br> <textarea id="friction_words" name="friction_words" rows="4" cols="80" onclick="assertNotPreviewMode();"></textarea></label></p>');
+
+  document.write('<p>Collision<br> <label><input type="radio" name="collision" value="1" />Yes</label><label><input type="radio" name="collision" value="0" />No</label></p>');
+  document.write('<p>Which words describe Collision? <br> <textarea id="collision_words" name="collision_words" rows="4" cols="80" onclick="assertNotPreviewMode();"></textarea></label></p>');
+
+  document.write('</p>');
+}
+
+</script>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  padding: 0px;
+  text-align: center
+}
+
+.screenshot {
+  width: 20%;
+  height: 20%
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+input[type="radio"]{
+  margin: 0 3px 0 10px;
+}
+
+</style>
+
+</head>
+
+<body>
+<input type="hidden" name="taskId" value="${taskId}" />
+
+<h2> Task Description </h2>
+In this task, you are given:
+<ol>
+  <li>A sentence describing a physical process.</li>
+</ol>
+<br>
+You will answer the following questions:
+<ol>
+  <li>Which phyiscal concepts (gravity, collision, friction) does the given sentence contain?</li>
+  <li>For each concept, extract words from the sentece if it contains that concept.</li>
+</ol>
+
+<h2> Task Example </h2>
+
+All three balls drop. The green and blue hit the ground first and are stationary, while the red falls and bumps into the blue ball. THe blue ball rolls and knocks the green ball and they touch.
+
+<h3> 1. Description </h3>
+
+<h3> Your Expected Answer </h3>
+  <p>Gravity<br> <label><input type="radio" name="gravity_test" value="1" checked />Yes</label><label><input type="radio" name="gravity" value="0" disabled />No</label></p>
+  <p>Which words describe Gravity? <br> 
+    <b>Answer:</b> drop, falls </p>
+
+  <p>Friction<br> <label><input type="radio" name="friction_test" value="1" checked />Yes</label><label><input type="radio" name="friction" value="0" disabled />No</label></p>
+  <p>Which words describe Friction? <br>
+  <b>Answer:</b> rolls </p>
+
+  <p>Collision<br> <label><input type="radio" name="collision_test" value="1" checked />Yes</label><label><input type="radio" name="collision" value="0" disabled />No</label></p>
+  <p>Which words describe Collision? <br>
+  <b>Answer:</b> hit, bumps into, knocks, touch </p>
+
+<h2> Your Task </h2>
+
+<script>
+if (isInPreviewMode) {
+  document.write('<i>[Your task will appear here after you accept this HIT.]</i>');
+} else {
+  displayTask();
+}
+</script>
+
+<p>
+  <input type="submit" value="" style="border: solid 0px #000000; width: 82px; height: 22px; background-image: url(data:image/gif;base64,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);" />
+</p>
+</form>
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+When green ball falls over red ball in the black platform it made red ball to move.Green ball falls over the blue platform after hitting the red ball.Then red ball move and falls over the red ball in the blue platform

@@ -1,0 +1,1 @@
+The red and green ball fall.  They both land on the blue bar.  The red ball pushes down the blue bar and rolls to the left.  The green ball follows.

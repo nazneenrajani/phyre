@@ -1,0 +1,1 @@
+The red ball falls hitting the green bar with its left side. This pushes the green vertical bar to the left, which leans onto the purple wall.

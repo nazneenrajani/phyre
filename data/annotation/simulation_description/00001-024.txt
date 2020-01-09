@@ -1,0 +1,1 @@
+Once red ball drop on to black bar, green bar move to the most left while red ball move to most right.

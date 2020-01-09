@@ -1,0 +1,1 @@
+The tiny green ball falls through the funnel after bouncing on the entrance. It lands on the left side of the red ball, causing the ball to bounce towards the left and continue rolling until it reaches the purple area.

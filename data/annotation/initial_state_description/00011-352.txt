@@ -1,0 +1,1 @@
+A green ball is hovering at the top center. A red ball is hovering right under the green ball. A black bar is attached to the top left center and is pointing downwards to the right. A purple bar is attached to the wall in the right center and is pointing downwards to the left.

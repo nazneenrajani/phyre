@@ -1,0 +1,1 @@
+Red ball is arriving on to black bar. Once arrive, green ball touch ball, eventually green ball fall down to the purple bar.

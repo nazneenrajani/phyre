@@ -1,0 +1,1 @@
+The green ball fall down.The red ball also fall down,the blue bar touch the black bar and red ball also move to left to the black bar.The green ball fall down on the red ball and after move to blue bar.

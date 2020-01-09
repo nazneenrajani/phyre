@@ -1,0 +1,1 @@
+As the balls fall, they roll on the ramps and bump into each other before falling through the opening. The bump causes them both to fall slightly to the right, but the red ball bounces against a raised spot on the floor and bounces back towards the left, while the green ball continues on to the purple goal area.

@@ -1,0 +1,1 @@
+A slight shift towards the right from the red bar to the green bar drops the green bar onto the purple bar.

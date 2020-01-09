@@ -1,0 +1,1 @@
+The red ball sits in its cubby and the green ball lands on top, just a little off-centered favoring the right. This causes it to roll off, above the side of the cubby, and continue rolling until it reaches the purple area.

@@ -1,0 +1,1 @@
+The red ball is placed left below the green ball.The purple bar is at the bottom.The green ball is hovering over the black platform.The black platform is in the middle, with a distance to the right wall slightly larger than the size of the green ball.

@@ -1,0 +1,1 @@
+The balls fall and hit the sloped platform. They collide with each other and then fall down the gap. The green ball lands on a black platform next to the purple platform, and continues to roll to the purple platform.

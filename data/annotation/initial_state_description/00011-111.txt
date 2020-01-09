@@ -1,0 +1,1 @@
+The black platform is in the middle, with a distance to the right wall slightly larger than the size of the red ball.The red ball fall from black platform to the purple platform. The purple platform in the right side.

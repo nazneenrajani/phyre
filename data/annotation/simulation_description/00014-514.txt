@@ -1,0 +1,1 @@
+The green ball falls down on top of the red ball. As a result, the red ball moves towards left. It get stuck on top of the short black bar as the space between the left end and the short bar is narrower than its diameter. The green ball bounces towards right, lands on the purple bar and moves towards right.

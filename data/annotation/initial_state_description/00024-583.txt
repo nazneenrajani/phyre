@@ -1,0 +1,1 @@
+A green ball hovers at the top center. A gray ball hovers at the center. A red ball is under it to the left. Two black bars are on the left and right walls in the bottom center. A purple bar is the floor.

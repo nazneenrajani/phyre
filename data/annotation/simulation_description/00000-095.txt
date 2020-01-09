@@ -1,0 +1,1 @@
+The balls fall and land on the bottom, with the blue ball landing on top of the red ball and rolling off to the left. It continues to roll until it reaches the green ball.

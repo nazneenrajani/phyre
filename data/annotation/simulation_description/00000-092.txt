@@ -1,0 +1,1 @@
+The balls fall, and the green and blue land apart and at the same time due to their starting positions. The red ball falls and hits the blue ball, knocking it left towards the green ball until they collide.

@@ -1,0 +1,1 @@
+A green ball hovers at the top right corner. A blue ball hovers at the top center. A red ball hovers at the bottom center.

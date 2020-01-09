@@ -1,0 +1,1 @@
+Initially given three balls its color was orange blue and green. The orange ball is in top of the middle.And the green and blue ball also given in middle. The orange ball slightly larger than the size of the green and blue ball.

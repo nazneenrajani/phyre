@@ -1,0 +1,1 @@
+This is similar to billiards.  By dropping the red ball two ball lengths, the green bar will drop to the purple bar.

@@ -1,0 +1,1 @@
+The red ball falls above the green ball causing the green ball to roll left onto the middle of the purple platform. The red ball rolls over right and gets stuck in between the black border on the right wall.

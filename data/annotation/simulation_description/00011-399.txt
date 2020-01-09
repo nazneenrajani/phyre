@@ -1,0 +1,1 @@
+The balls fall, and the green ball bumps the right side of the red ball, causing it to roll more to the left. Both balls hit the black ramp and roll left. The green ball exits the black ramp first, and is on the purple ramp when the red ball exits and pins it in place.

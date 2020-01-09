@@ -1,0 +1,1 @@
+The red ball is dropped. When it makes contact with the blue ball, the force sends the blue ball left and the red ball right. Both balls roll to their ends of the platform.

@@ -1,0 +1,1 @@
+The balls drop, and the red ball rolls to collide with the green ball. The green ball is knocked into the split wall, and bounces to the right. It lands over the grey ball and onto the purple floor.

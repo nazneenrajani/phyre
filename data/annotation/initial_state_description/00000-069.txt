@@ -1,0 +1,1 @@
+All three balls: green, blue, and red, hover in the center height of the area. The green ball is to the left, and the blue red balls are more to the right of center and touching each other.

@@ -1,0 +1,1 @@
+There is no platform. The green ball is slightly greater than than other two ball. The balls are fall to the bottom from the top. The red ball is fall to the green ball and moves to the left of the green ball

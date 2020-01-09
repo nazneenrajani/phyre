@@ -1,0 +1,1 @@
+The balls drop, and the red ball lands on the green ball. The red ball rolls off to the left and makes the green ball roll to the right until it touches the  purple wall there.

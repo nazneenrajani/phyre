@@ -1,0 +1,1 @@
+The red ball is dropped and rolls down the left side of the bar until it reaches the black platform. The force knocks the blue bar off the right edge of the platform. It eventually lands at the ground below. During this time, the red ball rolls to the right, but stops before reaching the right end of the platform.

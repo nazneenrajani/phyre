@@ -1,0 +1,1 @@
+The balls drop, with the red ball landing on the blue bar first. The red ball depresses the blue bar, and the red ball rolls to the right. The green ball lands and also rolls to the right, following the red ball and landing just off of the bar.

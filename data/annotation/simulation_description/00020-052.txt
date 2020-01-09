@@ -1,0 +1,1 @@
+The grey and green balls begin to fall, but as they do the red ball rolls towards the green ball and bumps it. The green ball then collides with a wall and bounces over the grey ball to land on the purple line.

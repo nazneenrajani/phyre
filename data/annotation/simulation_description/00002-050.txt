@@ -1,0 +1,1 @@
+The red and green ball fall.  The red ball lands on the horizontal black bar.  The green ball lands on the red ball.  The green ball rolls off to the left on the black bar and than rolls off the black bar onto the purple bar.

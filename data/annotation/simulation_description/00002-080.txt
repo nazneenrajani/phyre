@@ -1,0 +1,1 @@
+The balls fall. The red ball lands on the platform, and the green ball lands on top of it, and then rolls to the left. It continues rolling to the left off of the platform until it lands on the purple goal floor.

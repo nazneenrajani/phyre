@@ -1,0 +1,1 @@
+Both green ball and red ball fall down. The red ball hits the bottom. The green ball hits the left black platform, slides down the opening and hits the red ball. It bounces towards the right, touches the top of the purple bar, slides towards left and lands on the bottom.

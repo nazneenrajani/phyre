@@ -1,0 +1,1 @@
+The jar, red ball and green ball are fall down at same time. First the jar reached the purple bar and then the red ball fall above the jar and it placed center of the jar. Then the green ball fall above red ball and it lands on the purple bar.

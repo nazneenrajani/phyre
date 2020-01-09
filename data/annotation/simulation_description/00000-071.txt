@@ -1,0 +1,1 @@
+All the three balls fall down. The red ball lands at the bottom first. The blue ball too hits the bottom. The green ball hits the red ball, lands at the bottom, bounces towards the right and hits the blue ball. As a result the blue ball slides towards the right end followed by the green ball. As a result of impact with green ball, the red ball moves very slightly towards left.

@@ -1,0 +1,1 @@
+The red ball falls directly onto the green bar, causing the green bar to lean to the right and topple. It collides with the right wall before falling into the purple area.

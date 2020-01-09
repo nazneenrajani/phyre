@@ -1,0 +1,1 @@
+The red ball stays in the cubby as the green ball falls on top and rolls off to the left. It rolls over the small black wall of the cubby area and continues rolling left until it's reached the purple goal area.

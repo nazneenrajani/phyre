@@ -1,0 +1,1 @@
+Red ball fly above green bar. Once the red ball going to the ground, the green bar falling to the purple bar.

@@ -1,0 +1,1 @@
+There is a green ball hovering in the top left. There is a blue ball hovering in the top right. There is a red ball hovering in the bottom left.

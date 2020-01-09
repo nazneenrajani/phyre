@@ -1,0 +1,1 @@
+As the cup slides down the ramp, it gets stuck when the two bars meet and ends up horizontal. The red and green ball roll out and touch the purple bar.

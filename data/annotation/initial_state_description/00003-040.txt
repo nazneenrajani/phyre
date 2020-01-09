@@ -1,0 +1,1 @@
+Object properties differentiate objects from other objects. The basic properties of an object are those items identified by its four-part name

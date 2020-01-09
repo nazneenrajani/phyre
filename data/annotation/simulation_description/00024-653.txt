@@ -1,0 +1,1 @@
+The red and grey balls both try to fit through the hole, but its only big enough for the red to fall through and the grey rolls to the left after bumping into the red. The green bounces on both sides of the opening but eventually falls through, and both the green and red rest on the purple floor.

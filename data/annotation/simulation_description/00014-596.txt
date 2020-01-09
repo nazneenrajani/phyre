@@ -1,0 +1,1 @@
+Both red and green ball fall. The green ball falls on the red ball and rolls to the right landing on the the purple bar.

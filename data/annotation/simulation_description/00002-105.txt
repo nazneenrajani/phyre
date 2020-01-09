@@ -1,0 +1,1 @@
+The red and green balls fall and the red ball lands on the platform.  The green ball lands on the red ball and rolls to the left off the platform and onto the purple bar.

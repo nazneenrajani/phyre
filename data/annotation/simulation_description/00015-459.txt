@@ -1,0 +1,1 @@
+When the red ball is dropped, it makes contact with the right side of the blue ball. The blue ball rolls off the platform and to the corner on the ground. The red ball bounces and drops to the ground. When it reaches the left corner, it rolls slightly back to the right.

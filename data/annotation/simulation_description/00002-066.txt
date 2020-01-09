@@ -1,0 +1,1 @@
+A red bar is placed on top of the black bar and when the green ball drops, the red ball knocks it so it rolls on the black bar.  Once it falls off the black bar, the green ball drops onto the purple bar.

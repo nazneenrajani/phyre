@@ -1,0 +1,1 @@
+The balls drop, with the green ball landing on the floor and the red ball falling to bump it from above. The green ball rolls to the left after being bumped and touches the purple wall.

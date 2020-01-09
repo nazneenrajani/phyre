@@ -1,0 +1,1 @@
+The balls lands on the ground. The red ball lands, hits the blue ball, and rolls to the right corner. The blue ball hits the red ball and rolls to the left corner. The green ball is in the corner to the left of the blue ball.

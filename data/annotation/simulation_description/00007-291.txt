@@ -1,0 +1,1 @@
+The red ball and green ball both fall, with the red ball landing on the ground and the green ball falling through the funnel after bouncing on the sides. When it falls it lands on the red ball, a little off-center, so it rolls off to the right. It continues rolling until it reaches the purple area on the far right.

@@ -1,0 +1,1 @@
+As gravity takes effect, the edge touching the green ball doesn't fall as quickly, causing the cup to topple to the left. As it does, it gets stuck in the opening and pins the green ball in place as the large red ball pumps up against it.

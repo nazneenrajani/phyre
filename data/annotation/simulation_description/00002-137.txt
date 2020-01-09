@@ -1,0 +1,1 @@
+The balls drop, with the red ball landing on the black platform and the green ball landing on top of the red ball. The green ball rolls off to the left, briefly touching the platform before continuing to roll off and land on the purple floor.

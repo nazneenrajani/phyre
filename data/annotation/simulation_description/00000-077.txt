@@ -1,0 +1,1 @@
+The balls fall, with the red ball hitting the ground first since it wasn't as high up. The green ball lands on top and falls off to the right, continuing to roll until it meets with the blue ball that fell straight down.

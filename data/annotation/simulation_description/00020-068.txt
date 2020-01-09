@@ -1,0 +1,1 @@
+The ball are fall from the top to the bottom. The black platform are many, with a distance to the right wall slightly larger than the size of the grey ball. The green ball was placed in the purple platform. The purple bar in the right side.

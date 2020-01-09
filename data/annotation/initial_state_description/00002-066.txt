@@ -1,0 +1,1 @@
+The green bar is directly above a black bar which is above the purple bar.  The black bar is half the size of the purple bar and is halfway between the green ball and the purple bar.

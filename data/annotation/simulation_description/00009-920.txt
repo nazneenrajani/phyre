@@ -1,0 +1,1 @@
+The red ball falls on top of the green bar.  The green bar gets pushed to the left and falls onto the purple bar.  The red ball stays on the black bar.

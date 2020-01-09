@@ -1,0 +1,1 @@
+The red and green ball drop.  The red ball lands on the slanted black bar and the green ball lands on the red ball.  The green balls rolls to the right onto a purple bar.  The red ball rolls off the black bar onto the green ball and gets stuck on between the black bar and green ball.

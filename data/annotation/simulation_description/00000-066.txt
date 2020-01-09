@@ -1,0 +1,1 @@
+The red ball falls onto the left side of the green ball, propelling it to the right, and itself to the left. The green ball rolls until colliding with the blue ball. The red moves to the left until very near the left side.

@@ -1,0 +1,1 @@
+Add one ball its to make sure the green ball its touching blue ball.The orange ball is larger than given other two balls.The orange ball is fall down and hit the blue ball then the blue ball moving towards the right side and hit the green ball. At the same time the orange ball was land out the left corner.

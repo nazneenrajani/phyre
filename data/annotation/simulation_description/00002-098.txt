@@ -1,0 +1,1 @@
+The green and red ball both fall and hit the  black line. The green ball bounces on the red ball and rolls off to the left, landing on the purple floor.

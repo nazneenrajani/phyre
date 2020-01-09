@@ -1,0 +1,1 @@
+There is no platform in the bar chart. There are there balls like red ball, green ball and blue ball. The red ball is greater than the other two balls.

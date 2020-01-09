@@ -1,0 +1,1 @@
+The balls all drop down, with the red ball touching the ground first.  The green ball then bounces off the red ball as the blue ball touches the ground.  The green ball touches the ground, rolls to the right and touches the blue ball.

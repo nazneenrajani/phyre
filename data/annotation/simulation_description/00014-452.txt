@@ -1,0 +1,1 @@
+The small green ball falls and collides with the large red ball in the cubby, causing it to roll to the left. It bounces off the small black wall of the cubby and continues rolling until it reaches the purple floor.

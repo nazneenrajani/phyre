@@ -1,0 +1,1 @@
+The balls drop, both going straight down. The red ball hits the black platform and the green ball hits the red ball slightly on the left, causing it to roll leftwards. It continues rolling until it falls off the black platform through the hole on the right and lands on the purple floor.

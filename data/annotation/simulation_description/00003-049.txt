@@ -1,0 +1,1 @@
+When the red ball is dropped it makes contact with the right edge of the top of the blue vertical bar. The red ball bounces to the right and rolls to the right end. When it gets there it bounces slightly and is pushed left just a bit. The blue bar is pushed left from the impact and causes the cup to tip, so the bar and cup end up on an angle leaning on the left edge.

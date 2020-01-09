@@ -1,0 +1,1 @@
+The green ball falls onto the red's right side which forces the green to go right, and rolls off the black platform. It lands on the purple platform.

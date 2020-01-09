@@ -1,0 +1,1 @@
+The balls drop. The red ball lands on the black bar, rolls off of it onto the purple bar, and rolls onto the floor at the center. The green ball hits the red ball, lands on the purple bar, and rolls onto the leftside of the purple bar.

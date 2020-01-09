@@ -1,0 +1,1 @@
+The balls drop with the lower red hitting the ground first then the green hitting the right side of the red and being pushed to the right. The blue drops to the floor and the green ends up rolling into the blue ball.

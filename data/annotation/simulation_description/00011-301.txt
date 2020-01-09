@@ -1,0 +1,1 @@
+The red ball lands on the black bar, rolls to the right, and gets stuck to the left of the green ball. The green ball lands on the black bar, rolls onto the purple bar, and gets stuck under the red ball.

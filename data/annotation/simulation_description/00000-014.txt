@@ -1,0 +1,1 @@
+The blue ball falls and bumps into the red ball, causing it to roll to the left. The blue ball continues rolling left until it collides with the green ball.

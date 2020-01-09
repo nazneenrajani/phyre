@@ -1,0 +1,1 @@
+The balls fall with the red hitting the ground first, the green hitting the ground, and the smaller blue landing on the red ball's left side. The blue ball is pushed to the left making it roll on the ground and touching the green ball.

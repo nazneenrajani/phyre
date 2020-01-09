@@ -1,0 +1,1 @@
+The red ball is dropped on to the green ball and hits it on it's right side. The collision cause the green ball to roll to the left off the black platform and come to rest on the purple platform below.

@@ -1,0 +1,1 @@
+The red ball falls and knocks the green ball, causing it to roll to the left and stop at the purple wall, touching it.

@@ -1,0 +1,1 @@
+The balls drop. The red ball hits the blue ball and rolls at the right corner. The blue ball rolls into the green ball and the green ball moves a little.

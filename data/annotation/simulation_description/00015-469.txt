@@ -1,0 +1,1 @@
+When the red ball drops it hits the right edge of the blue ball. The red ball bounces off the blue ball to the ground and rolls to the right end. The blue ball is pushed to the left of the platform when the red ball hit it. It rolls off the left end of the platform to the ground and ends at the leftmost end.

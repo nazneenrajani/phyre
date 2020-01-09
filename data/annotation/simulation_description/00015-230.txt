@@ -1,0 +1,1 @@
+Red ball touching green ball located on black bar. Red ball slide green ball to fall on to purple bar.

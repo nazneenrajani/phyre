@@ -1,0 +1,1 @@
+They all fall with the blue and red hitting the ground first. The larger green hits the small red on its left side which pushes it to the right making it collide with the medium sized blue ball.

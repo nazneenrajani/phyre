@@ -1,0 +1,1 @@
+The tiny red ball falls, but is knocked off of the last step by the green ball. The red ball rolls off to the right, landing outside the cup, but the collision has made the green ball roll to the left. It rolls off of the last step and falls into the purple cup.

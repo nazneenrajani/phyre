@@ -1,0 +1,1 @@
+The green ball is dropped and hits the first black platform on the right. The green ball rolls down the black platform and drops on the red ball on the right side. The collision causes the green ball to bounce to the right and eventually roll to the purple platform.

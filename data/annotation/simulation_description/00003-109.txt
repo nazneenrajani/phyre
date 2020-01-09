@@ -1,0 +1,1 @@
+The red ball falls down and hits the green bar. As a result, the green bar tilts towards the right and hits the long purple bar. The red ball slides down the slope created by tilting of the green bar, hits the bottom and moves towards the left end.

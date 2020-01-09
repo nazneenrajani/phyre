@@ -1,0 +1,1 @@
+The green ball falls onto the reds right side, pushing it to the left and pushing the green to the right. The green ball falls on the purple ground below.

@@ -1,0 +1,1 @@
+The red ball falls and lands at the right edge of the platform and nearly immediately, the blue ball hits the platform, as well. The blue balls rolls to the left edge of the platform and stops just as it's almost about to fall to the ground.

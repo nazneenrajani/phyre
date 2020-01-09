@@ -1,0 +1,1 @@
+The purple platform is on the bottom of the frame while the black platform is on the middle left of the screen. The green ball is on tie black platform while the right ball hovers over the top right side of the green ball.

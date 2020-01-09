@@ -1,0 +1,1 @@
+The balls fall, but because the red ball is larger, it makes the blue bar shift to the left. This causes the green ball to roll to the left, as well, until it collides with the red ball.

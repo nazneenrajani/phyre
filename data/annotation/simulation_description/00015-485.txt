@@ -1,0 +1,1 @@
+Red ball fly on the top of green ball that's located on black bar. Once red ball touch green ball, both balls fall to the ground, green ball slide to the most left while red ball slide to the most right.

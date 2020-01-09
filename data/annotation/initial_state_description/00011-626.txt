@@ -1,0 +1,1 @@
+A green ball hovers a red ball. The red ball is hovering over a black bar. The black bar is connected to the left top side and is pointing downwards to the right. The purple bar is connected to the right wall and is tilted downwards to the left.

@@ -1,0 +1,1 @@
+The red ball falls and lands on the vertical green bar.  The vertical green bar is pushed to the left and it lands on the purple bar.  The red ball rolls until it stops on the horizontal black bar.

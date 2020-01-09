@@ -1,0 +1,1 @@
+The green ball falls and lands on the tiny red ball, pushing the tiny red ball towards the wall and the green ball away from it. The green ball continues rolling to the right until it hits the blue ball.

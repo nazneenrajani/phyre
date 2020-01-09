@@ -1,0 +1,1 @@
+The green ball drops down, hits the red ball, rolls off of it to the left, and lands on the purple bar at the left corner.

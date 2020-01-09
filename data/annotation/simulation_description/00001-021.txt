@@ -1,0 +1,1 @@
+The red ball is dropped and makes contact with the top left edge of the blue ball. When contact is made the red ball bounces left and ends at the very left edge of the platform. The blue ball rolls right and ends at the right edge of the platform.

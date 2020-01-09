@@ -1,0 +1,1 @@
+The green ball falls and hits the black platform, and the red ball falls on top of it. Because the red ball was more centered, it pushes the green ball to the left and it continues rolling until it hits the purple wall.

@@ -1,0 +1,1 @@
+The balls fall, and the tiny red ball lands first because it was closest to the ground. The blue ball falls on top of it and rolls off to the left. It continues to roll left until it touches the green ball which fell straight to the ground from its starting position.

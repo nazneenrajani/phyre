@@ -1,0 +1,1 @@
+The red ball falls onto the green bar and falls down on the left side.  The red ball pushes the green bar over and collides with the purple bar on the right side.

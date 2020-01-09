@@ -1,0 +1,1 @@
+A red ball is situated inside several diagonal black lines. A grey ball is on the other side of a wall with a hole in it, and a green ball is in between the two positioned to fall straight down through an open path.

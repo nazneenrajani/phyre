@@ -1,0 +1,1 @@
+The red and green ball fall.  The red ball hits the blue platform first and the green ball falls on top of the red ball.  The red ball rolls to the left and the green ball rolls onto the blue bar on the right side.

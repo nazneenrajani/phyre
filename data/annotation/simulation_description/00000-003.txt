@@ -1,0 +1,1 @@
+The balls fall down. The green ball hits the red ball and moves the blue ball towards the right corner and is to the left of the blue ball. The red ball rolls at the left corner.

@@ -1,0 +1,1 @@
+The tiny red dot lands, but is run over by the green ball when it falls. This forces the red dot off to the right where it falls, and the green ball rolls to the left and off of the step. It lands in the purple cup.

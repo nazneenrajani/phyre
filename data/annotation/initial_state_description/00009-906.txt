@@ -1,0 +1,1 @@
+There is a black line at y=55, a black line at y=160 that doesn't quite touch either side, and a purple line on bottom. There is a medium red ball and a green bar.

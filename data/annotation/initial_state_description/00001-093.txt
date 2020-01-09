@@ -1,0 +1,1 @@
+There are two walls. black wall is placed slightly above the bottom wall and blue wall is placed at the right side of the wall .There are two balls red and green where red ball is bigger than green ball.Red ball is placed above right side of the wall and green ball is placed little left of the red ball

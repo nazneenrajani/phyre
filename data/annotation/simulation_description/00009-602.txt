@@ -1,0 +1,1 @@
+Red ball on the top of green bar vertically located on black bar. Once the red ball falling on to black bar, the green bar fall down to purple bar.

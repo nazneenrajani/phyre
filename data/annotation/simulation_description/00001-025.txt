@@ -1,0 +1,1 @@
+The balls are dropped at the same time. The blue ball hits the platform first. The red ball follows just after it and lands on top of the blue ball. The force pushes the blue ball to the right while the red ball rolls to the left side. The red ball bounces off the edge at the end and starts to roll back to the right a bit.

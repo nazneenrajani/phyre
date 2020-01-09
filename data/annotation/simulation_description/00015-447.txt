@@ -1,0 +1,1 @@
+The red ball is dropped and it moves downward until hitting the green ball resting on the platform. The red ball is propelled to the right and the green to the left. They both fall to the ground below.

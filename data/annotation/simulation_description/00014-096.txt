@@ -1,0 +1,1 @@
+The red ball and the green ball are fall from the top and bounce in the black platform and the green ball jumps into the purple platform. The black platform at the center and the bottom. The purple platform at the right side. The red ball is slightly greater than the green ball. Both the balls are placed at the ground. The green ball moves to the right side of the red ball.

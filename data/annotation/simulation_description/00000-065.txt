@@ -1,0 +1,1 @@
+All balls fall straight down, but the green ball lands on the red ball which causes it to roll to the right. It continues rolling until it collides with the blue ball that fell.

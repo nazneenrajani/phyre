@@ -1,0 +1,1 @@
+The green ball falls down and hits the red ball. Both the balls land on the black platform. As a result of the impact, the red ball moves towards right while the green ball moves towards the left. The green ball rolls down the left end of the black platform and hit the purple bar at the bottom.
